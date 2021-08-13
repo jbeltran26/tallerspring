@@ -10,6 +10,8 @@ public class AnimalServiceImpl implements IAnimalService{
 	@Override
 	public Animal guardarAnimal(Animal a) {
 		// TODO Auto-generated method stub
+		
+		
 		return null;
 	}
 
